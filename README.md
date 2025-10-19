@@ -1,4 +1,6 @@
 # -OWC.PRE.TCL
 Yet another PreBot -  OWC.PRE.TCL
 
-Script from zer0|de
+Original from mah homeb0y <a href="https://github.com/zer0de">zer0de</a>
+
+You can find as at irc.ngpre.re:+6667
